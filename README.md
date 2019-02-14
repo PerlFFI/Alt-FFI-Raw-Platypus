@@ -4,7 +4,7 @@ Alternate FFI::Raw implementation powered by FFI::Platypus
 
 # SYNOPSIS
 
-env PERL\_ALT\_INSTALL=OVERWRITE cpanm Alt::FFI::Raw::Platypus
+    env PERL_ALT_INSTALL=OVERWRITE cpanm Alt::FFI::Raw::Platypus
 
 # DESCRIPTION
 

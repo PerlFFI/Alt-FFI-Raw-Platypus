@@ -9,7 +9,7 @@ use 5.008001;
 
 =head1 SYNOPSIS
 
-env PERL_ALT_INSTALL=OVERWRITE cpanm Alt::FFI::Raw::Platypus
+ env PERL_ALT_INSTALL=OVERWRITE cpanm Alt::FFI::Raw::Platypus
 
 =head1 DESCRIPTION
 
