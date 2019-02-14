@@ -10,23 +10,11 @@ my %modules;
 my $post_diag;
 
 $modules{$_} = $_ for qw(
-  Carp
-  Env
   ExtUtils::MakeMaker
   FFI::Build::MM
   FFI::Platypus::Legacy::Raw
-  FFI::Platypus::Legacy::Raw::Callback
-  FFI::Platypus::Legacy::Raw::MemPtr
-  FFI::Platypus::Legacy::Raw::Ptr
-  File::Copy
-  File::Spec
-  File::Temp
-  Math::BigInt
-  POSIX
   Test2::Tools::FFI
   Test2::V0
-  bigint
-  lib
 );
 
 
