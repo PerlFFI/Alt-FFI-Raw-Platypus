@@ -2,6 +2,10 @@
 
 Alternate FFI::Raw implementation powered by FFI::Platypus
 
+# SYNOPSIS
+
+env PERL\_ALT\_INSTALL=OVERWRITE cpanm Alt::FFI::Raw::Platypus
+
 # DESCRIPTION
 
 This distribution provides an alternative implementation of [FFI::Raw](https://metacpan.org/pod/FFI::Raw) that uses
@@ -15,10 +19,6 @@ original [FFI::Raw](https://metacpan.org/pod/FFI::Raw) that lives in its own nam
 you want to migrate to Platypus from Raw to take advantage of its type system
 and ability to attach xsubs, but do not want to change all of your code all at
 once.
-
-# ABSTRACT
-
-env PERL\_ALT\_INSTALL=OVERWRITE cpanm Alt::FFI::Raw::Platypus
 
 # SEE ALSO
 

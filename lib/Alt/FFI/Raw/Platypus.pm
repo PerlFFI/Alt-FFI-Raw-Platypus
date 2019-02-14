@@ -7,7 +7,7 @@ use 5.008001;
 # ABSTRACT: Alternate FFI::Raw implementation powered by FFI::Platypus
 # VERSION
 
-=head1 ABSTRACT
+=head1 SYNOPSIS
 
 env PERL_ALT_INSTALL=OVERWRITE cpanm Alt::FFI::Raw::Platypus
 
