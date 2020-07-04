@@ -1,10 +1,12 @@
-# Alt::FFI::Raw::Platypus [![Build Status](https://secure.travis-ci.org/plicease/Alt-FFI-Raw-Platypus.png)](http://travis-ci.org/plicease/Alt-FFI-Raw-Platypus)
+# Alt::FFI::Raw::Platypus [![Build Status](https://travis-ci.org/PerlFFI/Alt-FFI-Raw-Platypus.svg)](http://travis-ci.org/PerlFFI/Alt-FFI-Raw-Platypus)
 
 Alternate FFI::Raw implementation powered by FFI::Platypus
 
 # SYNOPSIS
 
-    env PERL_ALT_INSTALL=OVERWRITE cpanm Alt::FFI::Raw::Platypus
+```
+env PERL_ALT_INSTALL=OVERWRITE cpanm Alt::FFI::Raw::Platypus
+```
 
 # DESCRIPTION
 
