@@ -1,4 +1,4 @@
-# Alt::FFI::Raw::Platypus [![Build Status](https://travis-ci.org/PerlFFI/Alt-FFI-Raw-Platypus.svg)](http://travis-ci.org/PerlFFI/Alt-FFI-Raw-Platypus)
+# Alt::FFI::Raw::Platypus ![linux](https://github.com/PerlFFI/Alt-FFI-Raw-Platypus/workflows/linux/badge.svg)
 
 Alternate FFI::Raw implementation powered by FFI::Platypus
 
