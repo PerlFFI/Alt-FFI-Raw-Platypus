@@ -1,2 +1,4 @@
 /Alt-FFI-Raw-Platypus-*
 /.build
+*.old
+*.orig
